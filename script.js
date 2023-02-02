@@ -4,6 +4,6 @@ function Go() {
 }
 
 function play() {
-    var audio = new Audio('audio.mp3');
+    var audio = new Audio('/Funny/audio.mp3');
     audio.play();
   }
