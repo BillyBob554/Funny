@@ -1,5 +1,5 @@
 function Go() {
-    window.open("https://media.tenor.com/9WxnhICR0DsAAAAM/yourmom-forsen.gif")// Put "f here"
+    window.open("https://media.tenor.com/9WxnhICR0DsAAAAM/yourmom-forsen.gi")// Put "f here"
     play();
 }
 
